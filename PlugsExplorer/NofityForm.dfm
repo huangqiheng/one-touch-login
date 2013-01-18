@@ -1,0 +1,57 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu]
+  BorderWidth = 8
+  Caption = 'PlugsHolder'#36816#34892#25552#31034
+  ClientHeight = 247
+  ClientWidth = 374
+  Color = clBtnFace
+  DefaultMonitor = dmMainForm
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  FormStyle = fsStayOnTop
+  OldCreateOrder = False
+  Position = poDesktopCenter
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    Left = 0
+    Top = 222
+    Width = 374
+    Height = 25
+    Align = alBottom
+    Caption = #20851#38381#31383#21475
+    TabOrder = 0
+    OnClick = Panel1Click
+  end
+  object RichEdit1: TRichEdit
+    Left = 0
+    Top = 0
+    Width = 374
+    Height = 222
+    Align = alClient
+    BevelInner = bvNone
+    BevelOuter = bvSpace
+    BorderStyle = bsNone
+    BorderWidth = 1
+    Color = clBtnFace
+    Enabled = False
+    Font.Charset = GB2312_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    Lines.Strings = (
+      'RichEdit1')
+    ParentFont = False
+    ReadOnly = True
+    TabOrder = 1
+    WantReturns = False
+    WordWrap = False
+    ExplicitHeight = 223
+  end
+end

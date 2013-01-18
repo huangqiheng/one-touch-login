@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009-07-19 22:40:07.281.pas,C:\Documents and Settings\Administrator\My Documents\Borland Studio Projects\Unit1.pas=D:\OneTouch\PlugsExplorer\WarnningForm.pas</Transaction>
+    <Transaction>2009-07-19 22:40:07.281.dfm,C:\Documents and Settings\Administrator\My Documents\Borland Studio Projects\Unit1.dfm=D:\OneTouch\PlugsExplorer\WarnningForm.dfm</Transaction>
+    <Transaction>2009-07-19 22:48:07.171.bdsproj,C:\Documents and Settings\Administrator\My Documents\Borland Studio Projects\Project1.bdsproj=D:\OneTouch\PlugsExplorer\Notifying.bdsproj</Transaction>
+    <Transaction>2009-07-19 22:48:24.671.pas,D:\OneTouch\PlugsExplorer\WarnningForm.pas=D:\OneTouch\PlugsExplorer\NofityForm.pas</Transaction>
+    <Transaction>2009-07-19 22:48:24.671.dfm,D:\OneTouch\PlugsExplorer\WarnningForm.dfm=D:\OneTouch\PlugsExplorer\NofityForm.dfm</Transaction>
+    <Transaction>2009-09-27 05:57:03.828.pas,D:\OneTouch\PlugsExplorer\Unit3.pas=D:\OneTouch\PlugsExplorer\ProgressForm.pas</Transaction>
+    <Transaction>2009-09-27 05:57:03.828.dfm,D:\OneTouch\PlugsExplorer\Unit3.dfm=D:\OneTouch\PlugsExplorer\ProgressForm.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009-10-09 22:47:45.031.bdsgroup,C:\Documents and Settings\Administrator\My Documents\Borland Studio Projects\ProjectGroup1.bdsgroup=D:\OneTouch\DrvInjector\ProjectGroup1.bdsgroup</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="TestDLL.dll"/>
+	</Default.Personality>
+</BorlandProject>

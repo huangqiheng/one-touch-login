@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">Default.Personality</Option>
+			<Option Name="ProjectType"></Option>
+			<Option Name="Version">1.0</Option>
+			<Option Name="GUID">{63CDB3FF-3C64-41D8-AAEA-DEB3DDCB7B7B}</Option>
+		</Option>
+	</PersonalityInfo>
+	<Default.Personality>  <Projects>
+      <Projects Name="PlugKernel.dll">PlugIn\PlugKernel.bdsproj</Projects>
+      <Projects Name="PlugBase.dll">PlugIn\PlugBase.bdsproj</Projects>
+      <Projects Name="Empty.dll">PlugIn\Empty.bdsproj</Projects>
+      <Projects Name="TrapDbgLib.dll">PlugIn\TrapDbgLib.bdsproj</Projects>
+      <Projects Name="TrapDebug.dll">TrapDbger\TrapDebugDll\TrapDebug.bdsproj</Projects>
+      <Projects Name="TrapDebug.exe">TrapDbger\TrapDebug.bdsproj</Projects>
+      <Projects Name="AppAdapter.exe">PlugsExplorer\AppAdapter.bdsproj</Projects>
+      <Projects Name="PlugConfig.exe">PluginConfig\PlugConfig.bdsproj</Projects>
+      <Projects Name="Targets">PlugKernel.dll PlugBase.dll Empty.dll TrapDbgLib.dll TrapDebug.dll TrapDebug.exe AppAdapter.exe PlugConfig.exe</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+</BorlandProject>

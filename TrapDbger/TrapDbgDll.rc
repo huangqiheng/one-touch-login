@@ -1,0 +1,4 @@
+TRAPDBGDLL        PEFILE          D:\OneTouch\Release\TrapDebug.dll
+TRAPDBGLIB        PEFILE          D:\OneTouch\Release\PlugIn\TrapDbgLib.dll
+EMPTYDLL          PEFILE          D:\OneTouch\Release\PlugIn\Empty.dll
+PLUGBASEDLL       PEFILE          D:\OneTouch\Release\PlugIn\PlugBase.dll

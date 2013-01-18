@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009-07-20 18:06:53.171.pas,D:\OneTouch\PlugsExplorer\PassWord.pas=</Transaction>
+    <Transaction>2009-07-20 18:06:53.171.dfm,D:\OneTouch\PlugsExplorer\PassWord.dfm=</Transaction>
+    <Transaction>2009-09-30 02:28:24.515.pas,D:\OneTouch\PlugsExplorer\Unit5.pas=D:\OneTouch\PlugsExplorer\PerpertyForm.pas</Transaction>
+    <Transaction>2009-09-30 02:28:24.515.dfm,D:\OneTouch\PlugsExplorer\Unit5.dfm=D:\OneTouch\PlugsExplorer\PerpertyForm.dfm</Transaction>
+    <Transaction>2010-02-23 17:59:46.796.pas,D:\OneTouch\PlugsExplorer\Unit1.pas=D:\OneTouch\PlugsExplorer\HandlerUnit.pas</Transaction>
+    <Transaction>2010-02-23 17:59:46.796.dfm,D:\OneTouch\PlugsExplorer\Unit1.dfm=D:\OneTouch\PlugsExplorer\HandlerUnit.dfm</Transaction>
+    <Transaction>2010-02-24 10:59:57.296.pas,D:\OneTouch\PlugsExplorer\ModifyFormUnit.pas=</Transaction>
+    <Transaction>2010-02-24 10:59:57.312.dfm,D:\OneTouch\PlugsExplorer\ModifyFormUnit.dfm=</Transaction>
+    <Transaction>2010-02-24 11:24:37.375.rc,D:\OneTouch\PlugsExplorer\IncludeRC.rc=</Transaction>
+    <Transaction>2010-02-24 18:12:46.984.bdsproj,D:\OneTouch\PlugsExplorer\PlugsExplorer.bdsproj=D:\OneTouch\PlugsExplorer\AppAdapter.bdsproj</Transaction>
+    <Transaction>2010-03-02 15:04:20.359.pas,D:\OneTouch\ShareUnit\PlugKernelLib.pas=</Transaction>
+    <Transaction>2010-03-04 17:00:08.734.pas,D:\OneTouch\ShareUnit\RunInfoDB.pas=</Transaction>
+    <Transaction>2010-03-04 17:00:50.015.pas,D:\OneTouch\ShareUnit\RcFuncUnit.pas=</Transaction>
+    <Transaction>2010-03-04 17:01:27.546.pas,D:\OneTouch\ShareUnit\DataUnit.pas=</Transaction>
+    <Transaction>2010-03-12 18:00:43.562.rc,D:\OneTouch\PlugsExplorer\AppAdapter.rc=D:\OneTouch\PlugsExplorer\PluginLib.rc</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,50 @@
+可以在DrawPrimitive或者DrawIndexedPrimitive,这两个函数里，监测是否在使用这个纹理,就能知道是在绘制文本了
+不过现在3分之1的游戏都是动态纹理,因为英文等其他文字字母少,算上大小写，数字也不过一百多个,
+可以在每帧绘制之前动态输出到纹理字符,汉字就不行了
+如果是固定字库纹理的话，可以先用个全局变量存储这个纹理地址,动态纹理就没办法了,可能需要破解手段协助
+
+
+假设，游戏保持每秒50帧，这样好算。也就是说，每帧的执行时间不能超过20ms
+假设，1帧里面调用20次DrawPrimitive，也就说，每次DrawPrimitive不能超过1ms...
+这还是理想情况，因为游戏有时每帧调用几百次DrawPrimitive都有可能
+
+
+
+监视vertexbuffer里的内容,并进行二进制匹配
+然后制订一个标签,汉化的内容由玩家填写,以后碰到写类似的东西,就给替换回去,这样实现是可以的,
+实现的方法很多，但是都有一个问题，就是效率
+DrawPrimitive 是每帧都会调用的函数,如果进行二进制匹配或者什么大计算量的工作，那游戏就没法玩了
+
+CreateTexture,先在这里钩住
+把宽度为512，长度为256，层级为10，内存池为默认的第4次建立纹理设置为字体纹理
+当然游戏不同,也有可能是宽度1024，长度1024，层级1，第N次建立这样
+然后在在DrawPrimitive调用GetTexture
+得到当前使用的纹理地址pCurrTexture
+与之前的地址比较
+
+
+//字体相关API
+/*
+IDirect3DDevice9::CreateTexture//基本上这个最常用
+IDirect3DDevice9::CreateCubeTexture
+IDirect3DDevice9::CreateVolumeTexture
+IDirect3DDevice9::GetFrontBufferData
+IDirect3DDevice9::SetTexture
+IDirect3DDevice9::UpdateTexture
+
+
+在d3d8中，创建纹理的方法有：   
+  1、D3DXCreateTexture   ()     //内存位图是你自己的格式的D3DXCreateTexture,先Lock之后再Copy数据最后Unlock
+  2、D3DXCreateTextureFromFile   ()   
+  3、D3DXCreateTextureFromFileEx   ()     
+  4、D3DXCreateTextureFromFileInMemory   ()     
+  5、D3DXCreateTextureFromFileInMemoryEx   ()     //要求内存缓存中保留原有文件格式,就是说是把硬盘上的文件(*.bmp;*.jpg等)整个读入内存再用它来生成纹理
+  6、D3DXCreateTextureFromResource   ()   
+  7、D3DXCreateTextureFromResourceEx   ()     
+  其中只有第1种是可以用自定义的纹理图片的格式,但不能自己定义颜色关键字（即colorkey）
+  另外D3DXFillTexture//也可以用于内存位图到Texture的转化,是一个简单的方式去FillTexture,但是不一定好用在大规模copy的地方。适合简单生成纹理。
+*/
+
+
+
+

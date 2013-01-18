@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009-10-23 13:24:02.187.pas,C:\Documents and Settings\siestii\My Documents\Borland Studio Projects\Unit2.pas=D:\OneTouch\UnitTest\Unit5.pas</Transaction>
+    <Transaction>2009-10-23 13:24:02.187.dfm,C:\Documents and Settings\siestii\My Documents\Borland Studio Projects\Unit2.dfm=D:\OneTouch\UnitTest\Unit5.dfm</Transaction>
+    <Transaction>2009-10-23 13:24:13.062.bdsproj,C:\Documents and Settings\siestii\My Documents\Borland Studio Projects\Project1.bdsproj=D:\OneTouch\UnitTest\PlugKernelTest.bdsproj</Transaction>
+    <Transaction>2009-10-23 13:25:20.515.pas,D:\OneTouch\UnitTest\Unit3.pas=D:\OneTouch\PlugIn\PlugKernelUnit.pas</Transaction>
+    <Transaction>2009-12-29 14:30:53.859.pas,D:\OneTouch\UnitTest\Unit3.pas=D:\OneTouch\ShareUnit\GetCodeAreaList.pas</Transaction>
+    <Transaction>2010-01-06 11:46:03.015.pas,D:\OneTouch\ShareUnit\GetCodeAreaList.pas=D:\OneTouch\PlugIn\GetCodeAreaList.pas</Transaction>
+    <Transaction>2010-01-07 15:49:56.714.pas,D:\OneTouch\PlugIn\GetCodeAreaList.pas=D:\OneTouch\ShareUnit\GetCodeAreaList.pas</Transaction>
+    <Transaction>2010-01-07 15:53:03.825.pas,D:\OneTouch\ShareUnit\GetCodeAreaList.pas=D:\OneTouch\PlugIn\GetCodeAreaList.pas</Transaction>
+  </Transactions>
+</BorlandProject>

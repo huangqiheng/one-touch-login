@@ -1,0 +1,5 @@
+Path=D:\
+Overwrite=1 
+Silent=1
+Shortcut=D,D:\OneTouch\备份到U盘.bat,,"将OneTouch的源代码备份到U盘中","备份 OneTouch"
+Shortcut=D,D:\OneTouch\提取U盘.bat,,"将U盘中的备份更新到OneTouch的源代码","提取 OneTouch"

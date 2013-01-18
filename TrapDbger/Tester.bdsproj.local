@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009-11-16 15:29:02.171.pas,C:\Documents and Settings\siestii\My Documents\Borland Studio Projects\Unit1.pas=D:\OneTouch\TrapDbger\Unit1.pas</Transaction>
+    <Transaction>2009-11-16 15:29:02.171.dfm,C:\Documents and Settings\siestii\My Documents\Borland Studio Projects\Unit1.dfm=D:\OneTouch\TrapDbger\Unit1.dfm</Transaction>
+    <Transaction>2009-11-16 15:29:14.171.bdsproj,C:\Documents and Settings\siestii\My Documents\Borland Studio Projects\Project1.bdsproj=D:\OneTouch\TrapDbger\Tester.bdsproj</Transaction>
+    <Transaction>2009-11-16 15:33:06.234.pas,D:\OneTouch\TrapDbger\Unit2.pas=D:\OneTouch\ShareUnit\TrapDbgUnit.pas</Transaction>
+  </Transactions>
+</BorlandProject>

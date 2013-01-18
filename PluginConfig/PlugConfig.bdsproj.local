@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010-03-19 15:58:54.921.pas,C:\Documents and Settings\siestii\My Documents\Borland Studio Projects\Unit1.pas=D:\OneTouch\PluginConfig\Unit1.pas</Transaction>
+    <Transaction>2010-03-19 15:58:54.921.dfm,C:\Documents and Settings\siestii\My Documents\Borland Studio Projects\Unit1.dfm=D:\OneTouch\PluginConfig\Unit1.dfm</Transaction>
+    <Transaction>2010-03-19 16:00:00.406.bdsproj,C:\Documents and Settings\siestii\My Documents\Borland Studio Projects\Project1.bdsproj=D:\OneTouch\PluginConfig\PlugConfig.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

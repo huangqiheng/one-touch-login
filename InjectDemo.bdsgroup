@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">Default.Personality</Option>
+			<Option Name="ProjectType"></Option>
+			<Option Name="Version">1.0</Option>
+			<Option Name="GUID">{598F7B9C-76D7-4F2E-83A9-E57AC4B97245}</Option>
+		</Option>
+	</PersonalityInfo>
+	<Default.Personality>  <Projects>
+      <Projects Name="KernelCodeProxy.exe">UnitTest\KernelCodeProxy.bdsproj</Projects>
+      <Projects Name="ModuleServer.dll">UnitTest\ModuleServer.bdsproj</Projects>
+      <Projects Name="Host.exe">UnitTest\Host.bdsproj</Projects>
+      <Projects Name="DrvInjector.exe">DrvInjector\DrvInjector.bdsproj</Projects>
+      <Projects Name="CreateNotice.exe">DrvCreateNotice\CreateNotice.bdsproj</Projects>
+      <Projects Name="Targets">KernelCodeProxy.exe ModuleServer.dll Host.exe DrvInjector.exe CreateNotice.exe</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+</BorlandProject>

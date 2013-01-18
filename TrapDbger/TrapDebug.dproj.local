@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009-11-30 14:39:28.578.pas,C:\Documents and Settings\siestii\My Documents\Borland Studio Projects\Unit4.pas=D:\OneTouch\TrapDbger\Unit4.pas</Transaction>
+    <Transaction>2009-11-30 14:39:28.578.dfm,C:\Documents and Settings\siestii\My Documents\Borland Studio Projects\Unit4.dfm=D:\OneTouch\TrapDbger\Unit4.dfm</Transaction>
+    <Transaction>2009-11-30 14:42:08.593.bdsproj,C:\Documents and Settings\siestii\My Documents\Borland Studio Projects\Project1.bdsproj=D:\OneTouch\TrapDbger\TrapDebug.bdsproj</Transaction>
+    <Transaction>2009-11-30 17:13:54.515.pas,D:\OneTouch\TrapDbger\Unit6.pas=D:\OneTouch\TrapDbger\BreakForm.pas</Transaction>
+    <Transaction>2009-11-30 17:13:54.515.dfm,D:\OneTouch\TrapDbger\Unit6.dfm=D:\OneTouch\TrapDbger\BreakForm.dfm</Transaction>
+    <Transaction>2009-11-30 17:54:20.812.pas,D:\OneTouch\TrapDbger\Unit6.pas=D:\OneTouch\TrapDbger\MemExplorerForm.pas</Transaction>
+    <Transaction>2009-11-30 17:54:20.812.dfm,D:\OneTouch\TrapDbger\Unit6.dfm=D:\OneTouch\TrapDbger\MemExplorerForm.dfm</Transaction>
+    <Transaction>2009-12-01 16:20:19.609.pas,D:\OneTouch\TrapDbger\Unit2.pas=D:\OneTouch\TrapDbger\PlugKernelLib.pas</Transaction>
+    <Transaction>2009-12-09 15:48:35.745.pas,D:\OneTouch\TrapDbger\Unit2.pas=D:\OneTouch\TrapDbger\TrapDbgLibUnit.pas</Transaction>
+    <Transaction>2009-12-10 14:54:11.046.pas,D:\OneTouch\TrapDbger\Unit4.pas=D:\OneTouch\TrapDbger\MdiMainForm.pas</Transaction>
+    <Transaction>2009-12-10 14:54:11.046.dfm,D:\OneTouch\TrapDbger\Unit4.dfm=D:\OneTouch\TrapDbger\MdiMainForm.dfm</Transaction>
+    <Transaction>2009-12-11 13:40:00.484.pas,D:\OneTouch\TrapDbger\Unit6.pas=D:\OneTouch\TrapDbger\DbgInfoForm.pas</Transaction>
+    <Transaction>2009-12-11 13:40:00.484.dfm,D:\OneTouch\TrapDbger\Unit6.dfm=D:\OneTouch\TrapDbger\DbgInfoForm.dfm</Transaction>
+    <Transaction>2009-12-14 17:18:22.500.pas,D:\OneTouch\TrapDbger\Unit6.pas=D:\OneTouch\TrapDbger\ModuleFuncList.pas</Transaction>
+    <Transaction>2009-12-14 17:18:22.500.dfm,D:\OneTouch\TrapDbger\Unit6.dfm=D:\OneTouch\TrapDbger\ModuleFuncList.dfm</Transaction>
+    <Transaction>2009-12-14 18:00:37.609.pas,D:\OneTouch\TrapDbger\BreakForm.pas=D:\OneTouch\TrapDbger\BreakingForm.pas</Transaction>
+    <Transaction>2009-12-14 18:00:37.609.dfm,D:\OneTouch\TrapDbger\BreakForm.dfm=D:\OneTouch\TrapDbger\BreakingForm.dfm</Transaction>
+    <Transaction>2009-12-15 11:54:56.796.pas,D:\OneTouch\TrapDbger\BreakingForm.pas=D:\OneTouch\TrapDbger\BreakForm.pas</Transaction>
+    <Transaction>2009-12-15 11:54:56.796.dfm,D:\OneTouch\TrapDbger\BreakingForm.dfm=D:\OneTouch\TrapDbger\BreakForm.dfm</Transaction>
+    <Transaction>2009-12-15 11:55:08.703.pas,D:\OneTouch\TrapDbger\BreakForm.pas=D:\OneTouch\TrapDbger\BreakingForm.pas</Transaction>
+    <Transaction>2009-12-15 11:55:08.703.dfm,D:\OneTouch\TrapDbger\BreakForm.dfm=D:\OneTouch\TrapDbger\BreakingForm.dfm</Transaction>
+    <Transaction>2009-12-15 11:56:39.484.pas,D:\OneTouch\TrapDbger\BreakingForm.pas=D:\OneTouch\TrapDbger\BreakForm.pas</Transaction>
+    <Transaction>2009-12-15 11:56:39.484.dfm,D:\OneTouch\TrapDbger\BreakingForm.dfm=D:\OneTouch\TrapDbger\BreakForm.dfm</Transaction>
+    <Transaction>2009-12-15 17:19:30.093.pas,D:\OneTouch\TrapDbger\Unit6.pas=D:\OneTouch\TrapDbger\BreakingForm.pas</Transaction>
+    <Transaction>2009-12-15 17:19:30.093.dfm,D:\OneTouch\TrapDbger\Unit6.dfm=D:\OneTouch\TrapDbger\BreakingForm.dfm</Transaction>
+    <Transaction>2010-01-07 14:59:19.582.pas,D:\OneTouch\TrapDbger\Unit7.pas=D:\OneTouch\TrapDbger\CallStructForm.pas</Transaction>
+    <Transaction>2010-01-07 14:59:19.582.dfm,D:\OneTouch\TrapDbger\Unit7.dfm=D:\OneTouch\TrapDbger\CallStructForm.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

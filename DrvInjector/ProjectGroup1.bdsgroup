@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <PersonalityInfo>
+    <Option>
+      <Option Name="Personality">Default.Personality</Option>
+      <Option Name="ProjectType"></Option>
+      <Option Name="Version">1.0</Option>
+      <Option Name="GUID">{63F1015F-46CD-4B99-B3CD-C967B7737239}</Option>
+    </Option>
+  </PersonalityInfo>
+  <Default.Personality>
+    
+    <Projects>
+      <Projects Name="DrvInjector.exe">DrvInjector.bdsproj</Projects>
+      <Projects Name="TestDLL.dll">..\UnitTest\TestDLL.bdsproj</Projects>
+      <Projects Name="Targets">DrvInjector.exe TestDLL.dll</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+</BorlandProject>

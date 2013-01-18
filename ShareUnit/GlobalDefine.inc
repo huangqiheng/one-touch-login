@@ -1,0 +1,2 @@
+
+{$DEFINE MAKE_HASH_INC}

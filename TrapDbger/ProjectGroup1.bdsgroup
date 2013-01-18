@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">Default.Personality</Option>
+			<Option Name="ProjectType"></Option>
+			<Option Name="Version">1.0</Option>
+			<Option Name="GUID">{9641AD6C-D26B-4AA9-AC96-8A3C91308301}</Option>
+		</Option>
+	</PersonalityInfo>
+	<Default.Personality>  <Projects>
+      <Projects Name="Tester.exe">Tester.bdsproj</Projects>
+      <Projects Name="TrapDebugLib.dll">TrapDebugLib.bdsproj</Projects>
+      <Projects Name="Targets">Tester.exe TrapDebugLib.dll</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+</BorlandProject>

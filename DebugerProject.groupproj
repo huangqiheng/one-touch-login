@@ -1,0 +1,108 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{E10AD822-D770-4680-891E-98B86D4D4F6D}</ProjectGuid>
+		</PropertyGroup>
+		<ItemGroup>
+			<Projects Include="TrapDbger\TrapDebug.dproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="PlugIn\PlugKernel.dproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="PlugIn\PlugBase.dproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="PlugIn\TrapDbgLib.dproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="PlugIn\Empty.dproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="UnitTest\PlugKernelTest.dproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="UnitTest\TestDLL3.dproj">
+				<Dependencies/>
+			</Projects>
+		</ItemGroup>
+		<ProjectExtensions>
+			<Borland.Personality>Default.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Default.Personality/>
+			</BorlandProject>
+		</ProjectExtensions>
+		<Target Name="TrapDebug">
+			<MSBuild Projects="TrapDbger\TrapDebug.dproj"/>
+		</Target>
+		<Target Name="TrapDebug:Clean">
+			<MSBuild Targets="Clean" Projects="TrapDbger\TrapDebug.dproj"/>
+		</Target>
+		<Target Name="TrapDebug:Make">
+			<MSBuild Targets="Make" Projects="TrapDbger\TrapDebug.dproj"/>
+		</Target>
+		<Target Name="PlugKernel">
+			<MSBuild Projects="PlugIn\PlugKernel.dproj"/>
+		</Target>
+		<Target Name="PlugKernel:Clean">
+			<MSBuild Targets="Clean" Projects="PlugIn\PlugKernel.dproj"/>
+		</Target>
+		<Target Name="PlugKernel:Make">
+			<MSBuild Targets="Make" Projects="PlugIn\PlugKernel.dproj"/>
+		</Target>
+		<Target Name="PlugBase">
+			<MSBuild Projects="PlugIn\PlugBase.dproj"/>
+		</Target>
+		<Target Name="PlugBase:Clean">
+			<MSBuild Targets="Clean" Projects="PlugIn\PlugBase.dproj"/>
+		</Target>
+		<Target Name="PlugBase:Make">
+			<MSBuild Targets="Make" Projects="PlugIn\PlugBase.dproj"/>
+		</Target>
+		<Target Name="TrapDbgLib">
+			<MSBuild Projects="PlugIn\TrapDbgLib.dproj"/>
+		</Target>
+		<Target Name="TrapDbgLib:Clean">
+			<MSBuild Targets="Clean" Projects="PlugIn\TrapDbgLib.dproj"/>
+		</Target>
+		<Target Name="TrapDbgLib:Make">
+			<MSBuild Targets="Make" Projects="PlugIn\TrapDbgLib.dproj"/>
+		</Target>
+		<Target Name="Empty">
+			<MSBuild Projects="PlugIn\Empty.dproj"/>
+		</Target>
+		<Target Name="Empty:Clean">
+			<MSBuild Targets="Clean" Projects="PlugIn\Empty.dproj"/>
+		</Target>
+		<Target Name="Empty:Make">
+			<MSBuild Targets="Make" Projects="PlugIn\Empty.dproj"/>
+		</Target>
+		<Target Name="PlugKernelTest">
+			<MSBuild Projects="UnitTest\PlugKernelTest.dproj"/>
+		</Target>
+		<Target Name="PlugKernelTest:Clean">
+			<MSBuild Targets="Clean" Projects="UnitTest\PlugKernelTest.dproj"/>
+		</Target>
+		<Target Name="PlugKernelTest:Make">
+			<MSBuild Targets="Make" Projects="UnitTest\PlugKernelTest.dproj"/>
+		</Target>
+		<Target Name="TestDLL3">
+			<MSBuild Projects="UnitTest\TestDLL3.dproj"/>
+		</Target>
+		<Target Name="TestDLL3:Clean">
+			<MSBuild Targets="Clean" Projects="UnitTest\TestDLL3.dproj"/>
+		</Target>
+		<Target Name="TestDLL3:Make">
+			<MSBuild Targets="Make" Projects="UnitTest\TestDLL3.dproj"/>
+		</Target>
+		<Target Name="Build">
+			<CallTarget Targets="TrapDebug;PlugKernel;PlugBase;TrapDbgLib;Empty;PlugKernelTest;TestDLL3"/>
+		</Target>
+		<Target Name="Clean">
+			<CallTarget Targets="TrapDebug:Clean;PlugKernel:Clean;PlugBase:Clean;TrapDbgLib:Clean;Empty:Clean;PlugKernelTest:Clean;TestDLL3:Clean"/>
+		</Target>
+		<Target Name="Make">
+			<CallTarget Targets="TrapDebug:Make;PlugKernel:Make;PlugBase:Make;TrapDbgLib:Make;Empty:Make;PlugKernelTest:Make;TestDLL3:Make"/>
+		</Target>
+		<Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+	</Project>

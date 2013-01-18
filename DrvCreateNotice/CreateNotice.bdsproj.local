@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009-10-23 16:52:48.921.pas,C:\Documents and Settings\siestii\My Documents\Borland Studio Projects\Unit3.pas=D:\OneTouch\DrvCreateNotice\Unit3.pas</Transaction>
+    <Transaction>2009-10-23 16:52:48.921.dfm,C:\Documents and Settings\siestii\My Documents\Borland Studio Projects\Unit3.dfm=D:\OneTouch\DrvCreateNotice\Unit3.dfm</Transaction>
+    <Transaction>2009-10-23 16:52:59.343.bdsproj,C:\Documents and Settings\siestii\My Documents\Borland Studio Projects\Project1.bdsproj=D:\OneTouch\DrvCreateNotice\CreateNotice.bdsproj</Transaction>
+    <Transaction>2009-10-26 11:09:38.437.pas,D:\OneTouch\DrvCreateNotice\Unit4.pas=D:\OneTouch\ShareUnit\UMPE.pas</Transaction>
+  </Transactions>
+</BorlandProject>

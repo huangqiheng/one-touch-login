@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009-07-21 16:19:44.265.pas,C:\Documents and Settings\siestii\My Documents\Borland Studio Projects\Unit1.pas=D:\OneTouch\UnitTest\Unit1.pas</Transaction>
+    <Transaction>2009-07-21 16:19:44.265.dfm,C:\Documents and Settings\siestii\My Documents\Borland Studio Projects\Unit1.dfm=D:\OneTouch\UnitTest\Unit1.dfm</Transaction>
+    <Transaction>2009-07-21 16:20:52.062.bdsproj,C:\Documents and Settings\siestii\My Documents\Borland Studio Projects\Project1.bdsproj=D:\OneTouch\UnitTest\KernelCodeProxy.bdsproj</Transaction>
+    <Transaction>2009-07-21 16:21:37.468.pas,D:\OneTouch\UnitTest\Unit2.pas=D:\OneTouch\ShareUnit\CodeProxy.pas</Transaction>
+    <Transaction>2009-07-23 15:10:24.062.pas,D:\OneTouch\UnitTest\Unit2.pas=D:\OneTouch\ShareUnit\RcGetProcAddr.pas</Transaction>
+    <Transaction>2009-07-24 23:18:38.953.pas,D:\OneTouch\ShareUnit\RcGetProcAddr.pas=</Transaction>
+    <Transaction>2009-07-24 23:22:00.687.pas,D:\OneTouch\ShareUnit\RcGetProcAddr.pas=</Transaction>
+    <Transaction>2009-07-24 23:24:06.281.pas,D:\OneTouch\ShareUnit\RcGetProcAddr.pas=</Transaction>
+    <Transaction>2009-08-08 19:28:21.687.pas,D:\OneTouch\ShareUnit\CodeProxy.pas=D:\OneTouch\Injector\CodeProxy.pas</Transaction>
+  </Transactions>
+</BorlandProject>

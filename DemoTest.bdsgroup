@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">Default.Personality</Option>
+			<Option Name="ProjectType"></Option>
+			<Option Name="Version">1.0</Option>
+			<Option Name="GUID">{DD86510C-C04E-49B8-B5A6-39E37C52004E}</Option>
+		</Option>
+	</PersonalityInfo>
+	<Default.Personality>  <Projects>
+      <Projects Name="PlugsHolder.exe">PlugIn\PlugsHolder.bdsproj</Projects>
+      <Projects Name="Notifying.exe">PlugsExplorer\Notifying.bdsproj</Projects>
+      <Projects Name="PlugsExplorer.exe">PlugsExplorer\PlugsExplorer.bdsproj</Projects>
+      <Projects Name="DefaultDaemon.dll">PlugIn\DefaultDaemon.bdsproj</Projects>
+      <Projects Name="DefaultPlugBase.dll">PlugIn\DefaultPlugBase.bdsproj</Projects>
+      <Projects Name="SilkRoadAddr.dll">PlugIn\SilkRoadAddr.bdsproj</Projects>
+      <Projects Name="SilkRoad.dll">PlugIn\SilkRoad.bdsproj</Projects>
+      <Projects Name="WowTW.dll">PlugIn\WowTW.bdsproj</Projects>
+      <Projects Name="Null.dll">PlugIn\Null.bdsproj</Projects>
+      <Projects Name="LoginDaemonTest.exe">UnitTest\LoginDaemonTest.bdsproj</Projects>
+      <Projects Name="KindGo.exe">KindGo\KindGo.bdsproj</Projects>
+      <Projects Name="Targets">PlugsHolder.exe Notifying.exe PlugsExplorer.exe DefaultDaemon.dll DefaultPlugBase.dll SilkRoadAddr.dll SilkRoad.dll WowTW.dll Null.dll LoginDaemonTest.exe KindGo.exe</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+</BorlandProject>

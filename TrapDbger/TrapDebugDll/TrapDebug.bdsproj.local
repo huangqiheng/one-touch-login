@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010-02-03 14:49:33.468.bdsproj,C:\Documents and Settings\siestii\My Documents\Borland Studio Projects\Project1.bdsproj=D:\OneTouch\TrapDbger\TrapDebugDll.bdsproj</Transaction>
+    <Transaction>2010-02-08 15:27:54.609.pas,D:\OneTouch\TrapDbger\Unit2.pas=D:\OneTouch\ShareUnit\IdentifyFunc.pas</Transaction>
+    <Transaction>2010-02-22 14:09:08.187.bdsproj,D:\OneTouch\TrapDbger\TrapDebugDll.bdsproj=D:\OneTouch\TrapDbger\TrapDebugDll\TrapDebugDll.bdsproj</Transaction>
+    <Transaction>2010-02-22 14:09:45.687.bdsproj,D:\OneTouch\TrapDbger\TrapDebugDll\TrapDebugDll.bdsproj=D:\OneTouch\TrapDbger\TrapDebugDll\TrapDebug.bdsproj</Transaction>
+    <Transaction>2010-03-04 16:32:19.968.pas,D:\OneTouch\ShareUnit\IdentifyFunc.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

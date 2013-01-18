@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009-07-31 00:44:10.640.pas,C:\Documents and Settings\Administrator\My Documents\Borland Studio Projects\Unit2.pas=D:\OneTouch\UnitTest\Unit2.pas</Transaction>
+    <Transaction>2009-07-31 00:44:10.640.dfm,C:\Documents and Settings\Administrator\My Documents\Borland Studio Projects\Unit2.dfm=D:\OneTouch\UnitTest\Unit2.dfm</Transaction>
+    <Transaction>2009-07-31 00:45:52.453.bdsproj,C:\Documents and Settings\Administrator\My Documents\Borland Studio Projects\Project1.bdsproj=D:\OneTouch\UnitTest\DrvInjector.bdsproj</Transaction>
+    <Transaction>2009-08-01 18:47:07.640.pas,D:\OneTouch\UnitTest\Unit3.pas=D:\OneTouch\ShareUnit\GetKrnlFunctionUnit.pas</Transaction>
+    <Transaction>2009-08-04 20:25:48.843.pas,D:\OneTouch\ShareUnit\GetKrnlFunctionUnit.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
